@@ -22,3 +22,5 @@ Get a new feature in. So that its easier to visualize the commits.
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+Less hassles on automatic, not brainy on deciding which is correct when same area of code is updated.
+Manual lot of trouble, but can easily decide when same area of code updated.
