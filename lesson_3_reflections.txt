@@ -3,3 +3,10 @@ When collaboration across geographically different teams is required.
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 We might want to remain undisturbed while developing our feature and then add new features at will.
+
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Fork Used when u want to change someone else's repo contents, but do not have permission to chnge it.
+Clones when u want to make changes locally, esp when the changes are large or have to be run, eg., code changes.
+branch when u add a new or experimental feature.
