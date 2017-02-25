@@ -13,3 +13,6 @@ branch when u add a new or experimental feature.
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Difficult to visualize changes
+easier without hassles of learning to use git or github.
